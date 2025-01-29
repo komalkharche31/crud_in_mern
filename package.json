@@ -1,0 +1,31 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "Meran node mongodb react express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komalkharche31/crud_in_mern.git"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "express",
+    "mongoDb"
+  ],
+  "author": "Komal Kharche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komalkharche31/crud_in_mern/issues"
+  },
+  "homepage": "https://github.com/komalkharche31/crud_in_mern#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5",
+    "nodemon": "^3.1.9"
+  }
+}
