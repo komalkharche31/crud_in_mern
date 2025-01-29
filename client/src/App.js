@@ -12,7 +12,7 @@ function App() {
     name:"",
     email:"",
     mobile:"",
-    _id:""
+    id:""
   })
 
   const [editSection, setEditSection] = useState(false)
@@ -20,7 +20,7 @@ function App() {
     name:"",
     email:"",
     mobile:"",
-    _id:""
+    id:""
   })
 
 
